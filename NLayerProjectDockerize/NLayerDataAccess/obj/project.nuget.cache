@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8e5nqIhkaRpbM0mR7qr49suyj2GuM8MvwYcZdFvNIE32oK87k1515UbLHdoE5lSwrYPWxJChL99phrbXrk0kw==",
+  "success": true,
+  "projectFilePath": "D:\\Çalışmalar\\NLayerDockerize\\NLayerProjectDockerize\\NLayerDataAccess\\NLayerDataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert Yılmaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

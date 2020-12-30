@@ -1,0 +1,9 @@
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\bin\Debug\netcoreapp3.1\NLayerService.deps.json
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\bin\Debug\netcoreapp3.1\NLayerService.dll
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\bin\Debug\netcoreapp3.1\NLayerService.pdb
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\obj\Debug\netcoreapp3.1\NLayerService.AssemblyInfoInputs.cache
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\obj\Debug\netcoreapp3.1\NLayerService.AssemblyInfo.cs
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\obj\Debug\netcoreapp3.1\NLayerService.csproj.CoreCompileInputs.cache
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\obj\Debug\netcoreapp3.1\NLayerService.dll
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\obj\Debug\netcoreapp3.1\NLayerService.pdb
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerService\obj\Debug\netcoreapp3.1\NLayerService.csprojAssemblyReference.cache

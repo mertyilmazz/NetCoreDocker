@@ -1,0 +1,9 @@
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\bin\Debug\netcoreapp3.1\NLayerDataAccess.deps.json
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\bin\Debug\netcoreapp3.1\NLayerDataAccess.dll
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\bin\Debug\netcoreapp3.1\NLayerDataAccess.pdb
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\obj\Debug\netcoreapp3.1\NLayerDataAccess.AssemblyInfoInputs.cache
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\obj\Debug\netcoreapp3.1\NLayerDataAccess.AssemblyInfo.cs
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\obj\Debug\netcoreapp3.1\NLayerDataAccess.csproj.CoreCompileInputs.cache
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\obj\Debug\netcoreapp3.1\NLayerDataAccess.dll
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\obj\Debug\netcoreapp3.1\NLayerDataAccess.pdb
+D:\Çalışmalar\NLayerDockerize\NLayerProjectDockerize\NLayerDataAccess\obj\Debug\netcoreapp3.1\NLayerDataAccess.csprojAssemblyReference.cache
